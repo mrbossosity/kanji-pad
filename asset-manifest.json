@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanji-pad/static/css/main.2b95a3bb.css",
+    "main.js": "/kanji-pad/static/js/main.bf77de0c.js",
+    "static/js/453.6d6279d4.chunk.js": "/kanji-pad/static/js/453.6d6279d4.chunk.js",
+    "index.html": "/kanji-pad/index.html",
+    "main.2b95a3bb.css.map": "/kanji-pad/static/css/main.2b95a3bb.css.map",
+    "main.bf77de0c.js.map": "/kanji-pad/static/js/main.bf77de0c.js.map",
+    "453.6d6279d4.chunk.js.map": "/kanji-pad/static/js/453.6d6279d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b95a3bb.css",
+    "static/js/main.bf77de0c.js"
+  ]
+}
