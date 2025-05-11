@@ -10,7 +10,6 @@ const AppContainer = styled.div`
     padding: 1rem;
     display: grid;
     grid-template-rows: auto 1fr auto;
-    touch-action: none;
 `;
 
 function App() {
